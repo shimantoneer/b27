@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.neuroendomke.com/spine-conditions-and-treatments/lower-back-pain-and-conservative-treatments/");
 die();
 ?>
