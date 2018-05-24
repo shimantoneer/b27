@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.neuroendomke.com/spine-conditions-and-treatments/lower-back-pain-and-conservative-treatments/");
+header("Location: https://www.overheaddoorpittsburgh.com/");
 die();
 ?>
